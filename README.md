@@ -4,6 +4,8 @@ This is an original game built with C++ and Raylib, where players must quickly d
 
 ## Overview
 
+<img width="795" height="602" alt="image" src="https://github.com/user-attachments/assets/42e8657d-98f1-4402-b192-308f7ae4ccec" />
+
 Don't Press The Button is an arcade-style game that tests your ability to follow instructions under time pressure. Each level presents a different colored button with specific instructions; sometimes you must press it, sometimes you must resist the temptation. The game combines quick decision-making with visual perception skills as players navigate through increasingly challenging levels with varying time constraints.
 
 ## Features
@@ -125,3 +127,4 @@ The game currently features a **hardcoded level system** where all 10 levels are
 - **Configuration System**: Player-customizable difficulty settings and level parameters
 
 This randomization system will significantly increase replayability and provide a unique experience for each game session, moving beyond the current static level design to a more dynamic and engaging gameplay model.
+
